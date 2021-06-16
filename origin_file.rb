@@ -3,5 +3,6 @@ class Origin
     puts "疲れた"
   end
   def joy
+    puts "楽しい"
   end
 end
